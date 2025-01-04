@@ -1,6 +1,6 @@
 title: Gabriel Altay | TIL
 description: A collection of Today I Learned posts.
-baseurl: "" # Leave empty for user repositories
+baseurl: "/til" # Leave empty for user repositories
 url: "https://galtay.github.io/til" # Replace with your GitHub username
 theme: minima # You can choose other themes as well
 markdown: kramdown
