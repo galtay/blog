@@ -1,5 +1,7 @@
 main:
-  - title: "Posts"
-    url: /posts/
+  - title: "Recent"
+    url: /
   - title: "Tags"
     url: /tags/
+  - title: "Years"
+    url: /years/
