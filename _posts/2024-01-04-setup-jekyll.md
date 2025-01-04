@@ -1,6 +1,7 @@
 ---
 title: "setting up static github pages site with jekyll"
 date: 2024-01-04
+tags: jekyll
 ---
 
 The basics of setting up a Jekyll site on Ubuntu.
