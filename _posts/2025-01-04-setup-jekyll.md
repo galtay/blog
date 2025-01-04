@@ -1,18 +1,22 @@
 ---
-title: "setting up static github pages site with jekyll"
+title: "setting up jekyll site deployed to github pages"
 date: 2025-01-04
-tags: jekyll 
+tags: jekyll minimal-mistakes
 ---
 
-This is how I setup a static Jekyll site hosted with github pages.
-I was working on Ubuntu for this.
-The code is hosted at [https://github.com/galtay/til](https://github.com/galtay/til)
-and the site is hosted at [https://galtay.github.io/til/](https://galtay.github.io/til/).
+This is how I setup a static [Jekyll](https://jekyllrb.com){:target="_blank"}
+site hosted with 
+[github pages](https://pages.github.com){:target="_blank"}.
+The code is hosted at 
+[https://github.com/galtay/til](https://github.com/galtay/til){:target="_blank"}
+and the site is hosted at 
+[https://galtay.github.io/til/](https://galtay.github.io/til/){:target="_blank"}.
 
 # Setup Ruby
 
 Install a Ruby version manager.
 I used [rbenv](https://github.com/rbenv/rbenv){:target="_blank"}.
+I was working on Ubuntu so I used apt,
 
 ```bash
 sudo apt install rbenv
@@ -34,11 +38,11 @@ rbenv rehash
 
 # Setup Minimal Mistakes Theme
 
-The minimal-mistakes theme by [Michael Rose](https://mademistakes.com/) is great!
+The minimal-mistakes theme by [Michael Rose](https://mademistakes.com/){:target="_blank"} is great!
 
- * [main repo](https://github.com/mmistakes/minimal-mistakes)
- * [starter repo](https://github.com/mmistakes/mm-github-pages-starter)
- * [docs](https://mmistakes.github.io/minimal-mistakes)
+ * [main repo](https://github.com/mmistakes/minimal-mistakes){:target="_blank"}
+ * [starter repo](https://github.com/mmistakes/mm-github-pages-starter){:target="_blank"}
+ * [docs](https://mmistakes.github.io/minimal-mistakes){:target="_blank"}
 
 I began with the starter repo and simply updated the links in `_config.yml` and started writing posts.
 In particular I added,
@@ -49,10 +53,10 @@ url: "https://galtay.github.io/til"
 ```
 
 This is needed when publishing a project based github pages site as opposed to a user based site.
-[more here](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#types-of-github-pages-sites).
+[more here](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#types-of-github-pages-sites){:target="_blank"}.
 
 Posts can be written in markdown and the flavor of markdown used is 
-[kramdown](https://kramdown.gettalong.org/syntax.html).
+[kramdown](https://kramdown.gettalong.org/syntax.html){:target="_blank"}.
 
 # Run Locally
 
@@ -74,8 +78,8 @@ Run the site locally
 bundle exec jekyll serve
 ```
 
-# Publish from git branch
+# Deploy from git branch
 
 I setup my repo to deploy from the `main` branch.
-I did this by navigating to Settings/Pages/Build and deployment and choosing `Deploy from a branch`.
-When I'm happy with the local changes I push to the `main` branch and the site is automatically deployed.
+I did this by navigating to [Settings] -> [Pages] -> [Build and deployment] and choosing `Deploy from a branch`.
+When I'm happy with the local changes, I push to the `main` branch and the site is automatically deployed.
