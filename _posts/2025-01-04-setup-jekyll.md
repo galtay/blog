@@ -45,15 +45,6 @@ The minimal-mistakes theme by [Michael Rose](https://mademistakes.com/){:target=
  * [docs](https://mmistakes.github.io/minimal-mistakes){:target="_blank"}
 
 I began with the starter repo and simply updated the links in `_config.yml` and started writing posts.
-In particular I added,
-
-``` yaml
-baseurl: "/til"
-url: "https://galtay.github.io/til"
-```
-
-This is needed when publishing a project based github pages site as opposed to a user based site.
-[more here](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#types-of-github-pages-sites){:target="_blank"}.
 
 Posts can be written in markdown and the flavor of markdown used is 
 [kramdown](https://kramdown.gettalong.org/syntax.html){:target="_blank"}.
@@ -81,5 +72,6 @@ bundle exec jekyll serve
 # Deploy from git branch
 
 I setup my repo to deploy from the `main` branch.
-I did this by navigating to [Settings] -> [Pages] -> [Build and deployment] and choosing `Deploy from a branch`.
+I did this by navigating to [Settings] -> [Pages] -> [Build and deployment] and choosing `Deploy from a branch`
+with the `main` branch chosen.
 When I'm happy with the local changes, I push to the `main` branch and the site is automatically deployed.
