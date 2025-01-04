@@ -172,3 +172,8 @@ cython_debug/
 
 # emacs backup files
 *~
+
+# jekyll stuff
+.jekyll-cache
+Gemfile.lock
+_site
