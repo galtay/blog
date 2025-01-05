@@ -1,7 +1,7 @@
 ---
-title: "setting up jekyll site deployed to github pages"
+title: "[til] setting up jekyll site deployed to github pages"
 date: 2025-01-04
-tags: jekyll minimal-mistakes
+tags: til jekyll minimal-mistakes
 ---
 
 This is how I setup a static [Jekyll](https://jekyllrb.com){:target="_blank"}

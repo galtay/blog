@@ -1,7 +1,7 @@
 ---
-title: "changing default ollama storage location on linux"
+title: "[til] changing default ollama storage location on linux"
 date: 2025-01-04
-tags: ollama systemd
+tags: til ollama systemd
 ---
 
 I was downloading some large [ollama](https://ollama.com/){:target="_blank"} models and ran out of space on my linux machine.
