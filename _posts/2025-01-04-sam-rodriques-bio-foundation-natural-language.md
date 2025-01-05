@@ -10,4 +10,6 @@ a non-profit working on AI agents to automate research in biology and other comp
 
 > Indeed, I think natural language has an essential role to play in representing biology, and is ultimately unavoidable, insofar as it is the only medium we know of that is sufficiently structured for machine learning and sufficiently flexible to represent the full diversity of biological concepts.
 
+---
+
 via [X post](https://x.com/SGRodriques/status/1870531405127840235){:target="_blank"}
