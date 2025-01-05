@@ -12,4 +12,4 @@ a non-profit working on AI agents to automate research in biology and other comp
 
 ---
 
-via [X post](https://x.com/SGRodriques/status/1870531405127840235){:target="_blank"}
+source [X post](https://x.com/SGRodriques/status/1870531405127840235){:target="_blank"}
