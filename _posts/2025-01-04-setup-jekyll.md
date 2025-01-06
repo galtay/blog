@@ -5,12 +5,12 @@ tags: til jekyll minimal-mistakes
 ---
 
 This is how I setup a static [Jekyll](https://jekyllrb.com){:target="_blank"}
-site hosted with 
+site hosted with
 [github pages](https://pages.github.com){:target="_blank"}.
-The code is hosted at 
-[https://github.com/galtay/til](https://github.com/galtay/til){:target="_blank"}
-and the site is hosted at 
-[https://galtay.github.io/til/](https://galtay.github.io/til/){:target="_blank"}.
+The code is hosted at
+[https://github.com/galtay/blog](https://github.com/galtay/blog){:target="_blank"}
+and the site is hosted at
+[https://galtay.github.io/blog](https://galtay.github.io/blog){:target="_blank"}.
 
 # Setup Ruby
 
@@ -46,7 +46,7 @@ The minimal-mistakes theme by [Michael Rose](https://mademistakes.com/){:target=
 
 I began with the starter repo and simply updated the links in `_config.yml` and started writing posts.
 
-Posts can be written in markdown and the flavor of markdown used is 
+Posts can be written in markdown and the flavor of markdown used is
 [kramdown](https://kramdown.gettalong.org/syntax.html){:target="_blank"}.
 
 # Run Locally
