@@ -1,2 +1,2 @@
-# til
-Gabriel Altay | Today I Learned 
+# blog
+Gabriel Altay | Blog
