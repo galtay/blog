@@ -4,7 +4,7 @@ date: 2025-01-04
 tags: tif future-house nlp bio-foundation
 ---
 
-[Sam Rodriques](https://www.sam-rodriques.com/){:target="_blank"} 
+[Sam Rodriques](https://www.sam-rodriques.com/) 
 Director and CEO of [FutureHouse](https://www.futurehouse.org/),
 a non-profit working on AI agents to automate research in biology and other complex sciences, discusses the need for natural language understanding alongside structured biological foundation models.
 
@@ -12,4 +12,4 @@ a non-profit working on AI agents to automate research in biology and other comp
 
 ---
 
-source [X post](https://x.com/SGRodriques/status/1870531405127840235){:target="_blank"}
+source [X post](https://x.com/SGRodriques/status/1870531405127840235)

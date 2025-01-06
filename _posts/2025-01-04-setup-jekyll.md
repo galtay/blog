@@ -4,18 +4,18 @@ date: 2025-01-04
 tags: til jekyll minimal-mistakes
 ---
 
-This is how I setup a static [Jekyll](https://jekyllrb.com){:target="_blank"}
+This is how I setup a static [Jekyll](https://jekyllrb.com)
 site hosted with
-[github pages](https://pages.github.com){:target="_blank"}.
+[github pages](https://pages.github.com).
 The code is hosted at
-[https://github.com/galtay/blog](https://github.com/galtay/blog){:target="_blank"}
+[https://github.com/galtay/blog](https://github.com/galtay/blog)
 and the site is hosted at
-[https://galtay.github.io/blog](https://galtay.github.io/blog){:target="_blank"}.
+[https://galtay.github.io/blog](https://galtay.github.io/blog).
 
 # Setup Ruby
 
 Install a Ruby version manager.
-I used [rbenv](https://github.com/rbenv/rbenv){:target="_blank"}.
+I used [rbenv](https://github.com/rbenv/rbenv).
 I was working on Ubuntu so I used apt,
 
 ```bash
@@ -38,16 +38,16 @@ rbenv rehash
 
 # Setup Minimal Mistakes Theme
 
-The minimal-mistakes theme by [Michael Rose](https://mademistakes.com/){:target="_blank"} is great!
+The minimal-mistakes theme by [Michael Rose](https://mademistakes.com/) is great!
 
- * [main repo](https://github.com/mmistakes/minimal-mistakes){:target="_blank"}
- * [starter repo](https://github.com/mmistakes/mm-github-pages-starter){:target="_blank"}
- * [docs](https://mmistakes.github.io/minimal-mistakes){:target="_blank"}
+ * [main repo](https://github.com/mmistakes/minimal-mistakes)
+ * [starter repo](https://github.com/mmistakes/mm-github-pages-starter)
+ * [docs](https://mmistakes.github.io/minimal-mistakes)
 
 I began with the starter repo and simply updated the links in `_config.yml` and started writing posts.
 
 Posts can be written in markdown and the flavor of markdown used is
-[kramdown](https://kramdown.gettalong.org/syntax.html){:target="_blank"}.
+[kramdown](https://kramdown.gettalong.org/syntax.html).
 
 # Run Locally
 

@@ -6,15 +6,15 @@ tags: tif blogging
 
 [Simon Willison](https://en.wikipedia.org/wiki/Simon_Willison) 
 is a co-creator of 
-[Django](https://www.djangoproject.com/){:target="_blank"}, gives 
-[great talks](https://www.youtube.com/watch?v=P1-KQZZarpc){:target="_blank"}
-at events like [PyCon](https://us.pycon.org/2024/about/keynote-speakers/index.html){:target="_blank"}, 
+[Django](https://www.djangoproject.com/), gives 
+[great talks](https://www.youtube.com/watch?v=P1-KQZZarpc)
+at events like [PyCon](https://us.pycon.org/2024/about/keynote-speakers/index.html), 
 and is the kind of 
-[netizen](https://en.wikipedia.org/wiki/Netizen){:target="_blank"}
+[netizen](https://en.wikipedia.org/wiki/Netizen)
 we should all aspire to be more like.
 In his 
-[My approach to running a link blog](https://simonwillison.net/2024/Dec/22/link-blog/){:target="_blank"}
-post and the rest of his [how I blog](https://simonwillison.net/series/blogging/){:target="_blank"} series,
+[My approach to running a link blog](https://simonwillison.net/2024/Dec/22/link-blog/)
+post and the rest of his [how I blog](https://simonwillison.net/series/blogging/) series,
 he lets you know that he wants you to start a blog.
 
 > You should start a blog. Having your own little corner of the internet is good for the soul! 
@@ -46,4 +46,4 @@ Ideal world challenge accepted! You'll be able to identify my "thing i found" po
 
 ---
 
-source [My approach to running a link blog](https://simonwillison.net/2024/Dec/22/link-blog/){:target="_blank"}
+source [My approach to running a link blog](https://simonwillison.net/2024/Dec/22/link-blog/)

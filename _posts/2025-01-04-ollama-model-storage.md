@@ -4,14 +4,14 @@ date: 2025-01-04
 tags: til ollama systemd
 ---
 
-I was downloading some large [ollama](https://ollama.com/){:target="_blank"} models and ran out of space on my linux machine.
+I was downloading some large [ollama](https://ollama.com/) models and ran out of space on my linux machine.
 I then realized that the default model storage location is `/usr/share`.
 This path is mounted on my OS disk and there is not much storage there so I wanted the downloaded models to be stored elsewhere.
-It turns out this is a [common request](https://github.com/ollama/ollama/issues/680){:target="_blank"}
+It turns out this is a [common request](https://github.com/ollama/ollama/issues/680)
 and it can be done using an `OLLAMA_MODELS` environment variable.
 The docs cover the pieces,
- * [where models are stored](https://github.com/ollama/ollama/blob/main/docs/faq.md#where-are-models-stored){:target="_blank"}
- * [configuring ollama service](https://github.com/ollama/ollama/blob/main/docs/faq.md#how-do-i-configure-ollama-server){:target="_blank"} 
+ * [where models are stored](https://github.com/ollama/ollama/blob/main/docs/faq.md#where-are-models-stored)
+ * [configuring ollama service](https://github.com/ollama/ollama/blob/main/docs/faq.md#how-do-i-configure-ollama-server) 
  
  but it took me a few tries.
 
@@ -21,7 +21,7 @@ made an `ollama` directory and gave it
  * read, write, and execute permissions for user owner
  * read and execute permissions for group owner and others
  
-with the octal value 755 (read more about linux permissions [here](https://www.redhat.com/en/blog/linux-file-permissions-explained){:target="_blank"}).
+with the octal value 755 (read more about linux permissions [here](https://www.redhat.com/en/blog/linux-file-permissions-explained)).
 I then made `ollama` the user and group owner of that directory. 
 
 ``` bash
