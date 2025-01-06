@@ -120,8 +120,6 @@ tag_archive:
 enable_copy_code_button: true
 
 analytics:
-  provider: "google-gtag"
-  google:
-    tracking_id: G-ZEN3CM576G
-    anonymize_ip: true
+  provider: "custom"
+
 
