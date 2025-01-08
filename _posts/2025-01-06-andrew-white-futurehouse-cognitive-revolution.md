@@ -7,7 +7,8 @@ tags: tif future-house ai-for-science
 [Andrew White](https://x.com/andrewwhite01)
 head of science and co-founder at [FutureHouse](https://www.futurehouse.org/)
 on [Nathan Labenz](https://x.com/labenz) podcast
-[The Cognitive Revolution](https://x.com/cogrev_podcast).
+[The Cognitive Revolution](https://x.com/cogrev_podcast)
+posted 2024-12-05.
 
 # NotebookLM Summary
 

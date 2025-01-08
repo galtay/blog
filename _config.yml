@@ -59,7 +59,7 @@ plugins:
 author:
   name   : "Gabriel Altay"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "ML | Coding | Physics |  Biology"
+  # bio    : "ML|Code|Phys|Bio"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
