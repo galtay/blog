@@ -20,7 +20,7 @@ The two links in the quote above point to other projects from [MinishLab](https:
 We believe that if you make models fast enough, you unlock new possibilities.
 
 Looks like the team is
-* [Stephan Tulkens](https://github.com/stephantul)
+* [Stéphan Tulkens](https://github.com/stephantul)
 * [Thomas van Dongen](https://github.com/Pringled)
 
 I love the library names, the retro gaming art in the github repo, and the focus on unlocking new use cases by just making things really fast. Some of the things they suggest you can do with their software:
