@@ -36,4 +36,4 @@ Looking forward to giving some of these a try!
 ---
 
 source [semhash](https://github.com/MinishLab/semhash)
-via [philipp schmid](https://www.linkedin.com/in/philipp-schmid-a6a2bb196/)
+via [philipp schmid](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_data-leakage-and-deduplication-are-critical-activity-7284509620935557121-ZFq4)
