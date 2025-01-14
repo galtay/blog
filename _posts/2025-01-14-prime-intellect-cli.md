@@ -6,8 +6,8 @@ tags: til cli prime-intellect cloud-gpu
 
 Today I spun up a pair of A100 80GB gpus for $3.25 / hour using the
 [prime-intellect-cli](https://github.com/PrimeIntellect-ai/prime-cli).
-I wrote about
-[prime intellect]({% post_url 2025-01-06-prime-intellect-intro %})
+I wrote briefly about
+[prime intellect]({% post_url /blog/2025-01-06-prime-intellect-intro %})
 earlier and had spun up some GPUs using their website before, but their CLI is nice.
 
 First I checked that I had public and private ssh keys from them.
