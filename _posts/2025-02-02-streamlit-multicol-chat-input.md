@@ -72,7 +72,10 @@ with st.container():
 This is very simple, but means you have to manually specify the height.
 I chose this solution as its quick, easy to change, and fine for demos.
 To make it a little more flexible I added widgets in the side bar where the user can change the height of the chat area and the size of the columns.
-Working demo is [here](https://galtay-streamlit-multi-column-chat-app-q6ynqa.streamlit.app/).
+
+
+* github repo [here](https://github.com/galtay/streamlit-multi-column-chat)
+* live demo [here](https://galtay-streamlit-multi-column-chat-app-q6ynqa.streamlit.app/)
 
 
 
