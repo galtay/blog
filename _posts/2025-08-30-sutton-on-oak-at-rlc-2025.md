@@ -23,7 +23,7 @@ and references *The Alberta Plan for AI Research*
 he developed along with 
 [Mike Bowling](https://webdocs.cs.ualberta.ca/~bowling/) and 
 [Patrick Pilarski](https://sites.ualberta.ca/~pilarski/).
-The OaK acronum stands for "Options and Knowledge" and is a component of The Alberta Plan 
+The OaK acronym stands for "Options and Knowledge" and is a component of The Alberta Plan 
 consituting a vision for an overall agent architecture.
 
 In OaK, an option is a pair $\(\pi, \gamma\)$ where $\pi$ is a policy (a way of behaving)
