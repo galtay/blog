@@ -83,7 +83,7 @@ With the checkmarks indicating Sutton's estimation on how much progress has been
 * <span style="color: orange;">✔</span> Seems easy but can't be done until the rest are done
 * <span style="color: green;">✔</span> Seems done
 
-The rest of the talk goes into more technical details on these points with the majority of it focused on how the OaK system might go about creating and solving its own subproblems. I've collected some of the references below, but there are more to be found in the talk. 
+The rest of the talk goes into more technical details on these points with the majority of it focused on how the OaK system might go about creating and solving its own subproblems. It was refreshing to watch a researcher present a grand ambituous plan without relying on hype and being realistic about what parts need work. I've collected some of the references below, but there are more to be found in the talk. 
 
 
 # References
@@ -95,3 +95,4 @@ The rest of the talk goes into more technical details on these points with the m
 * [Settling the Reward Hypothesis](https://arxiv.org/abs/2212.10420)
 * [Reward is Enough](https://www.sciencedirect.com/science/article/pii/S0004370221000862)
 * [Reward-Respecting Subtasks for Model-Based Reinforcement Learning](https://arxiv.org/abs/2202.03466)
+* [The Quest for a Common Model of the Intelligent Decision Maker](https://arxiv.org/abs/2202.13252)
