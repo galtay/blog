@@ -83,10 +83,7 @@ With the checkmarks indicating Sutton's estimation on how much progress has been
 * <span style="color: orange;">✔</span> Seems easy but can't be done until the rest are done
 * <span style="color: green;">✔</span> Seems done
 
-The rest of the talk goes into more technical details on how the OaK system might go about creating and solving its own subproblems.
-
-
-
+The rest of the talk goes into more technical details on these points with the majority of it focused on how the OaK system might go about creating and solving its own subproblems. I've collected some of the references below, but there are more to be found in the talk. 
 
 
 # References
